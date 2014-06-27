@@ -1,0 +1,14 @@
+{
+  "browsers": {
+    "local": [
+      {
+        "command": "C:\\Program Files\\Internet Explorer\\iexplore.exe",
+        "version": "8.0.7600.16385",
+        "windows": true,
+        "name": "ie",
+        "type": "ie",
+        "profile": false
+      }
+    ]
+  }
+}
