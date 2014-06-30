@@ -16,7 +16,8 @@
       "iphone/6",
       "ipad/6",
       "android-browser/latest"
-    ]
+    ],
+    "html":"test.html"
   },
   "scripts": {
     "test": "tape test/*.js"
